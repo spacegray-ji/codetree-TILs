@@ -4,7 +4,7 @@ b = 5
 buf = a
 
 a = b
-b = bu
+b = buf
 
 print(a)
 print(b)
