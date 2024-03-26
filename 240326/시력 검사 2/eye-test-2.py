@@ -1,4 +1,4 @@
-val = flaot(input())
+val = float(input())
 
 
 if val >= 1.0:
