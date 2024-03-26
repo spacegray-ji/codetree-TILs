@@ -1,7 +1,5 @@
-import sys
+a = int(input())
+b = int(input())
 
-a, b = map(int, sys.stdin.readline().split())
-
-
-print(a+87)
-print(a%10)
+print(a + 87)
+print(a % 10)
