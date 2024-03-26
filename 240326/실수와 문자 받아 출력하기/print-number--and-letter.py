@@ -2,8 +2,8 @@ import sys
 
 
 c = input()
-
-a, b = map(float, sys.stdin.readline().split())
+a = input()
+b = input()
 
 print(c)
 print(f'a:.2f')
