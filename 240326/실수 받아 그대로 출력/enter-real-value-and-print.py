@@ -1,3 +1,3 @@
 a = float(input())
 
-print(a.02f)
+print(f'a:.02f')
