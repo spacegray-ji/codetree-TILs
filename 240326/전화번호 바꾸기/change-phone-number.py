@@ -1,5 +1,5 @@
 import sys
 
-a, b, c = map(int, sys.stdin.readline().split('-'))
+a, b, c = map(str, sys.stdin.readline().split('-'))
 
 print(f'{a}-{c}-{b}')
