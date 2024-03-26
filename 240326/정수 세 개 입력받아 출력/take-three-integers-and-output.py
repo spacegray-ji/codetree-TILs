@@ -1,5 +1,7 @@
-a = int(input())
-b = int(input())
+import sys 
+
+
+a, b = map(int, sys.stdin.readline().split())
 c = int(input())
 
 
