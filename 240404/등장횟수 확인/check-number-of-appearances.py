@@ -1,4 +1,4 @@
-lst = [i for i=int(input()) in range(5)]
+lst = [int(input()) for _ in range(5)]
 
 cnt = 0
 
