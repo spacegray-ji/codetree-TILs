@@ -5,7 +5,7 @@ cnt = 0
 
 while True:
     buf = int(sys.stdin.readline())
-    if buf < 30:
+    if buf < 30 and buf > 19:
         t_age += buf
         cnt += 1
     else:
